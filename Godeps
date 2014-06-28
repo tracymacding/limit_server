@@ -1,0 +1,60 @@
+{
+	"ImportPath": "limit_server",
+	"GoVersion": "go1.2.2",
+	"Deps": [
+		{
+			"ImportPath": "bitbucket.org/zombiezen/gopdf/pdf",
+			"Comment": "go.weekly.2012-02-22-5",
+			"Rev": "e6dcb88af94e2511b554272cfaf6e39ae9e66b89"
+		},
+		{
+			"ImportPath": "code.google.com/p/draw2d/draw2d",
+			"Comment": "release-15",
+			"Rev": "2ee67d15ef81f48143dc9e8c2a7836e60fe1e829"
+		},
+		{
+			"ImportPath": "code.google.com/p/freetype-go/freetype",
+			"Comment": "release-26",
+			"Rev": "15b6d4e041517055da50fd23f5f4b4cc2c66ee94"
+		},
+		{
+			"ImportPath": "code.google.com/p/go.image/tiff",
+			"Comment": "null-14",
+			"Rev": "d16be1f828b007f93645458019beb5d66d9bfade"
+		},
+		{
+			"ImportPath": "code.google.com/p/log4go",
+			"Comment": "go.weekly.2012-02-22-1",
+			"Rev": "c3294304d93f48a37d3bed1d382882a9c2989f99"
+		},
+		{
+			"ImportPath": "code.google.com/p/plotinum/plot",
+			"Comment": "v1.0-74",
+			"Rev": "8c0e59532ef3395d63020330e7adc420fa19381b"
+		},
+		{
+			"ImportPath": "code.google.com/p/plotinum/plotter",
+			"Comment": "v1.0-74",
+			"Rev": "8c0e59532ef3395d63020330e7adc420fa19381b"
+		},
+		{
+			"ImportPath": "code.google.com/p/plotinum/plotutil",
+			"Comment": "v1.0-74",
+			"Rev": "8c0e59532ef3395d63020330e7adc420fa19381b"
+		},
+		{
+			"ImportPath": "code.google.com/p/plotinum/vg",
+			"Comment": "v1.0-74",
+			"Rev": "8c0e59532ef3395d63020330e7adc420fa19381b"
+		},
+		{
+			"ImportPath": "github.com/ajstarks/svgo",
+			"Comment": "go.weekly.2012-01-27-74-g4bc4de0",
+			"Rev": "4bc4de04dfc4b3ba5041edb420764feeedea833f"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Rev": "c808a1bb644594ca717ac61f71e6b0e454b835e2"
+		}
+	]
+}
