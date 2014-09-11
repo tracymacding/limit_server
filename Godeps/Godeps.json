@@ -1,5 +1,5 @@
 {
-	"ImportPath": "limit_server",
+	"ImportPath": "github.com/tracymacding/limit_server",
 	"GoVersion": "go1.2.2",
 	"Deps": [
 		{
